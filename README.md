@@ -20,8 +20,8 @@ Các file có chú thích tiếng Việt về thread, block, grid, bộ nhớ v�
 ## Phiên bản Python và đo thời gian
 
 ```bash
-python3 python_equivalent.py
-python3 python_equivalent.py --repeat 10000
+python3 part1/python_equivalent.py
+python3 part1/python_equivalent.py --repeat 10000
 ```
 
 File Python dùng thư viện chuẩn, thực hiện cả hai bài trên CPU với cùng dữ liệu.

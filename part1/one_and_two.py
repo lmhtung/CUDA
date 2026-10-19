@@ -1,6 +1,6 @@
 """Hai bài tương đương part1/chapter1.cu và part1/chapter2.cu, chạy trên CPU.
 
-Chạy: python3 python_equivalent.py --repeat 1000
+Chạy từ thư mục CUDA: python3 part1/python_equivalent.py --repeat 1000
 Chỉ dùng thư viện chuẩn Python, không cần cài NumPy hoặc CUDA.
 """
 
